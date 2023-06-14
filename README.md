@@ -166,6 +166,7 @@ about docker! (Tips: checkout her [dotfiles][jfrazelledotfiles] and her [dockerf
 ## Networking
 * [Using Docker Machine with Weave 0.10](https://www.weave.works/using-docker-machine-with-weave-0-10/) (written 22 APR 2015)
 * [How to Route Traffic through a Tor Docker container](https://blog.jessfraz.com/post/routing-traffic-through-tor-docker-container/) by [@jfrazelle][jfrazelle] (writtent 20 JUN 2015)
+* [Docker Networking – Basics, Network Types & Examples](https://spacelift.io/blog/docker-networking) (written 18 MAY 2023)
 
 ## Metal
 * [How to use Docker on Full Metal](http://blog.bigstep.com/use-docker-full-metal-cloud/)
